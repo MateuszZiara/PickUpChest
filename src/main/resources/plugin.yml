@@ -1,0 +1,6 @@
+name: PickUpChest
+version: '${project.version}'
+main: me.gujix64.pickupchest.PickUpChest
+api-version: 1.19
+authors: [ Gujix64 ]
+description: Small plugin that lets you pick up chest
